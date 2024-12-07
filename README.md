@@ -6,17 +6,18 @@
 
 ---
 
-## 📈 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RlEHVL&show_icons=true&theme=dark)
-
----
-
 ## 🌌 About Me
 - 🎓 **College Student** | Studying Computer Science.
 - 🎮 **Hobbies**: DJMax, Watching Anime
 - 🌱 **Learning**: Python, Unity, .Net Framework, ML Development, Data Analysis, RNN
 - 📫 **Contact**: Discord: rmfchqhdms
 - 🚀 **Archive my dream**: Creating AI girlFriends! haha...!
+
+---
+
+
+## 📈 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RlEHVL&show_icons=true&theme=dark)
 
 ---
 
