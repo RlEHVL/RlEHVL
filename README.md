@@ -24,7 +24,7 @@ I'm **RIEHVL**, a rhythm game enthusiast and aspiring developer!
 ## 🚀 Skills
 - **Languages**:
   - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) : DataSience
-  - ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat)
+  - ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat) : Project_Dev
 
 - **Tools**:
   - ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
