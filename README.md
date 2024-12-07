@@ -1,4 +1,4 @@
-<div style="background-color: #0d1117; color: #c9d1d9; padding: 20px; border-radius: 10px;">
+<div style="background-color: #003366; color: #ffffff; padding: 20px; border-radius: 10px;">
 
 # Welcome to My Profile!
 
