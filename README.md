@@ -11,7 +11,7 @@ I'm **RIEHVL**, a rhythm game enthusiast and aspiring developer!
 - 🎮 **Hobbies**: DJMax, Watching to Anime
 - 🌱 **Learning**: Python, Unity, .NetFrameWork, MLdev, DataAnalysis, RNN
 - 📫 **Contact**: Discord: rmfchqhdms
-- **Archive my dream**: Creating AI girlFriends! haha...!
+- 🚀 **Archive my dream**: Creating AI girlFriends! haha...!
 
 ---
 
@@ -23,15 +23,9 @@ I'm **RIEHVL**, a rhythm game enthusiast and aspiring developer!
 ---
 > ## Dark_erta :
 > <img src="Herta/Herta2.jpg" alt="이미지 설명" width="300">
+---
+# Story
 
-## 🚀 Skills
-- **Languages**:
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) : DataSience
-  - ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat) : Project_Dev
-
-- **Tools**:
-  - ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-  - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
 ---
 
