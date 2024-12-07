@@ -4,7 +4,6 @@
   <p>I'm <strong>RIEHVL</strong>, a rhythm game enthusiast and aspiring developer!</p>
 </div>
 ---
-<img src="Herta/Banner.jpg" alt="Custom Banner" width="100%">
 
 ## 🌌 About Me
 - 🎓 **College Student** | Studying Computer Science.
