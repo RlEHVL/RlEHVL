@@ -39,15 +39,14 @@
 <!-- 스토리 섹션 내용 추가 -->
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RlEHVL&show_icons=true&theme=dark)
+
 ---
 
 ## 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=RIEHVL&show_icons=true&theme=radical" alt="RIEHVL's GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIEHVL&layout=compact&theme=radical" alt="Top Languages">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RlEHVL&show_icons=true&theme=dark)
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzih05&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzih05&show_icons=true&theme=e0b3ff)
 
 
 ## 📫 Connect with Me
