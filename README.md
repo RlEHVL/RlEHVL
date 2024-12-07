@@ -6,6 +6,11 @@
 
 ---
 
+## 📈 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RlEHVL&show_icons=true&theme=dark)
+
+---
+
 ## 🌌 About Me
 - 🎓 **College Student** | Studying Computer Science.
 - 🎮 **Hobbies**: DJMax, Watching Anime
@@ -40,10 +45,6 @@
 ---
 
 
----
-
-## 📈 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RlEHVL&show_icons=true&theme=dark)
 
 ---
 
