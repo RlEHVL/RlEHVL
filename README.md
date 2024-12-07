@@ -45,6 +45,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIEHVL&layout=compact&theme=radical" alt="Top Languages">
 
 ---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzih05&show_icons=true&theme=dark)
+
 
 ## 📫 Connect with Me
 - [Steam Profile](https://steamcommunity.com/profiles/76561198423141226)
