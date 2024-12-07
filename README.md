@@ -46,7 +46,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RlEHVL&show_icons=true&theme=dark)
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzih05&show_icons=true&theme=e0b3ff)
 
 
 ## 📫 Connect with Me
