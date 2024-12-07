@@ -1,46 +1,50 @@
-<div style="background-color: #0d1117; color: #c9d1d9; padding: 20px; border-radius: 10px;">
-
-# Welcome to My Profile!
-
-I'm RIEHVL, a rhythm gamer & developer!
-
----
-
-## 🌌 About Me
-- 🎓 **College Student** | Studying Computer Science.
-- 🎮 **Hobbies**: DJMax, Watching Anime
-- 🌱 **Learning**: Python, Unity, .Net Framework, ML Development, Data Analysis, RNN
-- 📫 **Contact**: Discord: rmfchqhdms
-- 🚀 **Archive my dream**: Creating AI girlFriends! haha...!
-
----
-
-## 🎮 My Game Archive
-<img src="Herta/Djmax.jpg" alt="DJMax" width="500">
-
-Top 149 in correct! WoW...
-
----
-
-## 💖 My Girl Friends
-
-### Herta:
-<img src="Herta/Herta1.jpg" alt="Herta" width="300">
-
----
-
-### Dark_erta:
-<img src="Herta/Herta2.jpg" alt="Dark_erta" width="300">
-
----
-
-## 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=RIEHVL&show_icons=true&theme=dark" alt="RIEHVL's GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIEHVL&layout=compact&theme=dark" alt="Top Languages">
-
----
-
-## 📫 Connect with Me
-- [Steam Profile](https://steamcommunity.com/profiles/76561198423141226)
-
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RIEHVL's Profile</title>
+  <style>
+    body {
+      background-color: #0d1117;
+      color: #c9d1d9;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
+    a {
+      color: #58a6ff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    img {
+      max-width: 100%;
+      border-radius: 10px;
+    }
+    h1, h2, h3 {
+      color: #c9d1d9;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to My Profile!</h1>
+  <p>I'm RIEHVL, a rhythm gamer & developer!</p>
+  <h2>🌌 About Me</h2>
+  <ul>
+    <li>🎓 <strong>College Student</strong> | Studying Computer Science.</li>
+    <li>🎮 <strong>Hobbies</strong>: DJMax, Watching Anime</li>
+    <li>🌱 <strong>Learning</strong>: Python, Unity, .Net Framework, ML Development, Data Analysis, RNN</li>
+    <li>📫 <strong>Contact</strong>: Discord: rmfchqhdms</li>
+    <li>🚀 <strong>Archive my dream</strong>: Creating AI girlFriends! haha...!</li>
+  </ul>
+  <h2>🎮 My Game Archive</h2>
+  <img src="Herta/Djmax.jpg" alt="DJMax">
+  <h2>💖 My Girl Friends</h2>
+  <h3>Herta:</h3>
+  <img src="Herta/Herta1.jpg" alt="Herta">
+  <h3>Dark_erta:</h3>
+  <img src="Herta/Herta2.jpg" alt="Dark_erta">
+</body>
+</html>
