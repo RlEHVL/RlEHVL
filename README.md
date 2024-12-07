@@ -1,8 +1,8 @@
 <img src="https://via.placeholder.com/1000x200/1e1e2f/FFFFFF?text=Welcome+to+My+Profile!" alt="Banner" width="100%">
-
-# 👋 Welcome to My Dark-Themed Profile!
-
-I'm **RIEHVL**, a rhythm game enthusiast and aspiring developer!
+<div style="background-color:#1e1e2f; color:white; padding:20px; border-radius:10px;">
+  <h1>👋 Welcome to My Dark-Themed Profile!</h1>
+  <p>I'm <strong>RIEHVL</strong>, a rhythm game enthusiast and aspiring developer!</p>
+</div>
 
 ---
 
