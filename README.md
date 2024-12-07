@@ -15,7 +15,8 @@ I'm **RIEHVL**, a rhythm game enthusiast and aspiring developer!
 
 
 # My Game Archive
-> <img src="Herta/Djmax.jpg" alt="이미지 설명" width="400">
+> <img src="Herta/Djmax.jpg" alt="이미지 설명" width="500">
+## Top 149 in correct! WoW...
 
 ---
 
