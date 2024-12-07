@@ -8,9 +8,9 @@ I'm **RIEHVL**, a rhythm game enthusiast and aspiring developer!
 
 ## 🌌 About Me
 - 🎓 **College Student** | Studying Computer Science.
-- 🎮 **Hobbies**: DJMax, Touhou
-- 🌱 **Learning**: Python, C, Game Development.
-- 📫 **Contact**: Discord:
+- 🎮 **Hobbies**: DJMax, Watching to Anime
+- 🌱 **Learning**: Python, Unity, .NetFrameWork, MLdev, DataAnalysis
+- 📫 **Contact**: Discord: rmfchqhdms
 
 ---
 
@@ -28,7 +28,6 @@ I'm **RIEHVL**, a rhythm game enthusiast and aspiring developer!
 
 - **Tools**:
   - ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-  - ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=flat)
   - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
 ---
