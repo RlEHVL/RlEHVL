@@ -1,4 +1,4 @@
-<div style="background-color:#1e1e2f; color:white; padding:20px; border-radius:10px;">
+<div style="background-color:#1e1e2f; color:dark; padding:20px; border-radius:10px;">
 
 <img src="https://via.placeholder.com/1000x200/1e1e2f/FFFFFF?text=Welcome+to+My+Profile!" alt="Banner" width="100%">
 
