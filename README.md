@@ -1,4 +1,4 @@
-<div style="background-color: black; color: white; padding: 20px; border-radius: 10px;">
+<div style="background-color: #0d1117; color: #c9d1d9; padding: 20px; border-radius: 10px;">
 
 # Welcome to My Profile!
 
@@ -17,11 +17,13 @@ I'm RIEHVL, a rhythm gamer & developer!
 
 ## 🎮 My Game Archive
 <img src="Herta/Djmax.jpg" alt="DJMax" width="500">
+
 Top 149 in correct! WoW...
 
 ---
 
 ## 💖 My Girl Friends
+
 ### Herta:
 <img src="Herta/Herta1.jpg" alt="Herta" width="300">
 
@@ -33,7 +35,12 @@ Top 149 in correct! WoW...
 ---
 
 ## 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=RIEHVL&show_icons=true&theme=radical" alt="RIEHVL's GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIEHVL&layout=compact&theme=radical" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=RIEHVL&show_icons=true&theme=dark" alt="RIEHVL's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIEHVL&layout=compact&theme=dark" alt="Top Languages">
+
+---
+
+## 📫 Connect with Me
+- [Steam Profile](https://steamcommunity.com/profiles/76561198423141226)
 
 </div>
