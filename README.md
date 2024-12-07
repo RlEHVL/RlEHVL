@@ -3,8 +3,6 @@
   <h1>👋 Welcome to My Dark-Themed Profile!</h1>
   <p>I'm <strong>RIEHVL</strong>, a rhythm game enthusiast and aspiring developer!</p>
 </div>
-<img src="https://via.placeholder.com/1e1e2f/FFFFFF?" alt="Banner" width="100%">
-
 ---
 
 ## 🌌 About Me
