@@ -36,15 +36,11 @@
   ---
   
   ## 📈 GitHub Stats
-  <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=RIEHVL&show_icons=true&theme=radical" alt="RIEHVL's GitHub stats">
-    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIEHVL&layout=compact&theme=radical" alt="Top Languages">
-  </div>
+  
   
   ---
   
   ## 📫 Connect with Me
   - [Steam Profile](https://steamcommunity.com/profiles/76561198423141226)
-
-</div>
