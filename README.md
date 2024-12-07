@@ -2,8 +2,6 @@
 
 <img src="https://via.placeholder.com/1000x200/1e1e2f/FFFFFF?text=Welcome+to+My+Profile!" alt="Banner" width="100%">
 
-<div style="background-color:#1e1e2f; color:white; padding:20px; border-radius:10px;">
-
   <h1>👋 Welcome to My Dark-Themed Profile!</h1>
   <p>I'm <strong>RIEHVL</strong>, a rhythm game enthusiast and aspiring developer!</p>
   
@@ -50,5 +48,4 @@
   ## 📫 Connect with Me
   - [Steam Profile](https://steamcommunity.com/profiles/76561198423141226)
 
-</div>
 </div>
