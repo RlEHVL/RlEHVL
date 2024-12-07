@@ -9,15 +9,16 @@ I'm **RIEHVL**, a rhythm game enthusiast and aspiring developer!
 ## 🌌 About Me
 - 🎓 **College Student** | Studying Computer Science.
 - 🎮 **Hobbies**: DJMax, Watching to Anime
-- 🌱 **Learning**: Python, Unity, .NetFrameWork, MLdev, DataAnalysis
+- 🌱 **Learning**: Python, Unity, .NetFrameWork, MLdev, DataAnalysis, RNN
 - 📫 **Contact**: Discord: rmfchqhdms
+- **Archive my dream**: Creating AI girlFriends! haha...!
 
 ---
 
 # My girl friend
 > ## Herta :
 
-> <img src="Herta/Herta1.jpg" alt="이미지 설명" width="300">
+> <img src="Herta/Herta1.jpg" alt="이미지 설명" width="200">
 > 
 ---
 
