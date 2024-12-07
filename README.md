@@ -13,11 +13,6 @@
 - 📫 **Contact**: Discord: rmfchqhdms
 - 🚀 **Archive my dream**: Creating AI girlFriends! haha...!
 
----
-
-
-## 📈 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RlEHVL&show_icons=true&theme=dark)
 
 ---
 
@@ -45,7 +40,8 @@
 <!-- 스토리 섹션 내용 추가 -->
 ---
 
-
+## 📈 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RlEHVL&show_icons=true&theme=dark)
 
 ---
 
