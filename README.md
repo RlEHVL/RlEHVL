@@ -37,7 +37,9 @@
 
 ## 📖 Story
 <!-- 스토리 섹션 내용 추가 -->
+---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RlEHVL&show_icons=true&theme=dark)
 ---
 
 ## 📈 GitHub Stats
