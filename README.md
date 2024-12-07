@@ -18,9 +18,11 @@ I'm **RIEHVL**, a rhythm game enthusiast and aspiring developer!
 # My girl friend
 > ## Herta :
 
-> <img src="Herta/Herta1.jpg" alt="이미지 설명" width="200">
+> <img src="Herta/Herta1.jpg" alt="이미지 설명" width="300">
 > 
 ---
+> ## Dark_erta :
+> <img src="Herta/Herta2.jpg" alt="이미지 설명" width="300">
 
 ## 🚀 Skills
 - **Languages**:
