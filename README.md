@@ -1,37 +1,51 @@
-<div style="background-color:#282a36; color:#f8f8f2; padding:20px; border-radius:10px; font-family:Arial, sans-serif;">
+<div style="background-color:#1e1e2f; color:white; padding:20px; border-radius:10px;">
 
-# 🧛 Dracula Theme
+<img src="https://via.placeholder.com/1000x200/1e1e2f/FFFFFF?text=Welcome+to+My+Profile!" alt="Banner" width="100%">
 
-Dracula is a theme for GitHub Pages.
+  <h1>👋 Welcome to My Dark-Themed Profile!</h1>
+  <p>I'm <strong>RIEHVL</strong>, a rhythm game enthusiast and aspiring developer!</p>
+  
+  ---
+  
+  ## 🌌 About Me
+  - 🎓 **College Student** | Studying Computer Science.
+  - 🎮 **Hobbies**: DJMax, Watching Anime
+  - 🌱 **Learning**: Python, Unity, .Net Framework, ML Development, Data Analysis, RNN
+  - 📫 **Contact**: Discord: rmfchqhdms
+  - 🚀 **Archive my dream**: Creating AI girlFriends! haha...!
+  
+  ---
+  
+  # My Game Archive
+  > <img src="Herta/Djmax.jpg" alt="DJMax" width="500">
+  ## Top 149 in correct! WoW...
+  
+  ---
+  
+  # My Girl Friends
+  > ## Herta:
+  > <img src="Herta/Herta1.jpg" alt="Herta" width="300">
+  ---
+  > ## Dark_erta:
+  > <img src="Herta/Herta2.jpg" alt="Dark_erta" width="300">
+  
+  ---
+  
+  # Story
+  <!-- 스토리 섹션 내용 추가 -->
+  
+  ---
+  
+  ## 📈 GitHub Stats
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=RIEHVL&show_icons=true&theme=radical" alt="RIEHVL's GitHub stats">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIEHVL&layout=compact&theme=radical" alt="Top Languages">
+  </div>
+  
+  ---
+  
+  ## 📫 Connect with Me
+  - [Steam Profile](https://steamcommunity.com/profiles/76561198423141226)
 
----
-
-**Text can be** **bold**, *italic*, or ~~strikethrough~~.
-
-[Link to another page](#)
-
-There should be whitespace between paragraphs.
-
-We recommend including a README, or a file with information about your project.
-
----
-
-## Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
----
-
-## Header 2
-
-> This is a blockquote following a header.
-
-> GitHub supports markdown syntax.
-
----
-
-### Code Block Example
-
-```python
-def dracula_theme():
-    print("This is a Dracula-themed code block!")
+</div>
