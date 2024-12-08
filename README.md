@@ -46,7 +46,7 @@
 ---
 ## 💎 My Best Anime Top 3
 
-> # ❓Mystery Anime - Umineko nakukoroni
+> # ❓Mystery Anime - Umineko Nakukoroni
 <img src="Herta/괭이갈매기 울적에.jpg" alt="괭이갈매기 울적에" width="400">
 
 
