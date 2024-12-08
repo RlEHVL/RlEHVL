@@ -27,7 +27,7 @@
 ## 💖 My Girl Friends
 
 ### Herta:
-<img src="Herta/Herta1.jpg" alt="Herta" width="300">
+<img src="Herta/Herta1.jpg" alt="Herta" width="400">
 
 ---
 
