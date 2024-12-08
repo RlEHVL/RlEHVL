@@ -47,6 +47,11 @@
 
 ## My Best Anime Top 3
 
+<img src="Herta/괭이갈매기 울적에.jpg" alt="괭이갈매기 울적에" width="300">
+
+<img src="Herta/은혼.jpg" alt="은혼" width="300">
+
+<img src="Herta/데스노트.jpg" alt="데스노트" width="300">
 
 
 
