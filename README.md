@@ -1,6 +1,6 @@
 <div style="background-color:#3c1361; color:#e0b3ff; padding:100px; border-radius:50px;">
 
-<img src="https://via.placeholder.com/1000x300/3c1361/FFFFFF?text=Let+Me+IntroDuce+in+MySelf!" alt="Banner" width="200%">
+<img src="https://via.placeholder.com/1000x200/3c1361/FFFFFF?text=Let+Me+IntroDuce+in+MySelf!" alt="Banner" width="200%">
 
 # I'm RIEHVL, a rhythm gamer & developer!
 
