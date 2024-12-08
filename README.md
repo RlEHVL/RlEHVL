@@ -38,12 +38,10 @@
 
 ## 📖 Story
 <!-- 스토리 섹션 내용 추가 -->
----
-
-## 📈 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RlEHVL&show_icons=true&theme=dark)
 
 ---
+
+
 ## 💎 My Best Anime Top 3
 
 > # ❓Mystery Anime - Umineko Nakukoroni
@@ -58,6 +56,12 @@
 
 <img src="Herta/데스노트.jpg" alt="데스노트" width="450">
 
+---
+
+## 📈 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RlEHVL&show_icons=true&theme=dark)
+
+---
 
 ## 📫 Connect with Me
 -🎮 [Steam Profile](https://steamcommunity.com/profiles/76561198423141226)
