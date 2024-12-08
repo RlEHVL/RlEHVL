@@ -46,15 +46,15 @@
 ---
 ## 💎 My Best Anime Top 3
 
-> # ❓Mystery Anime
+> # ❓Mystery Anime - Umineko nakukoroni
 <img src="Herta/괭이갈매기 울적에.jpg" alt="괭이갈매기 울적에" width="400">
 
 
-> # 😂 Comedy Anime
+> # 😂 Comedy Anime - Kintama
 <img src="Herta/은혼.jpg" alt="은혼" width="300">
 
 
-> # 💀 Populer Anime
+> # 💀 Populer Anime - Death Note
 
 <img src="Herta/데스노트.jpg" alt="데스노트" width="300">
 
