@@ -1,4 +1,4 @@
-<div style="background-color:#e0b3ff; color:#3c1361; padding:100px; border-radius:50px;">
+<div style="background-color:#3c1361; color:#C0C0C0; padding:20px; border-radius:10px;">
 
 <img src="https://via.placeholder.com/1000x200/3c1361/FFFFFF?text=Let+Me+IntroDuce+in+MySelf!" alt="Banner" width="200%">
 
