@@ -45,22 +45,42 @@
 
 ---
 
-## My Best Anime Top 3
+<div style="background-color:#3c1361; color:#C0C0C0; padding:20px; border-radius:10px;">
 
-<img src="Herta/괭이갈매기 울적에.jpg" alt="괭이갈매기 울적에" width="400">
+# 🎉 My Best Anime Top 3
 
-Mystery Anime
+<div style="display: flex; justify-content: space-between; gap: 20px;">
 
-<img src="Herta/은혼.jpg" alt="은혼" width="300">
+  <div style="background-color: #2e003e; padding: 15px; border-radius: 10px; text-align: center; width: 30%;">
+    <img src="Herta/괭이갈매기 울적에.jpg" alt="괭이갈매기 울적에" width="100%" style="border-radius: 10px;">
+    <h3 style="color: #C0C0C0; margin-top: 10px;">❓ Mystery Anime</h3>
+    <p>**괭이갈매기 울적에**</p>
+  </div>
 
-19 Comedy Anime
+  <div style="background-color: #2e003e; padding: 15px; border-radius: 10px; text-align: center; width: 30%;">
+    <img src="Herta/은혼.jpg" alt="은혼" width="100%" style="border-radius: 10px;">
+    <h3 style="color: #C0C0C0; margin-top: 10px;">😂 19 Comedy Anime</h3>
+    <p>**은혼**</p>
+  </div>
 
-<img src="Herta/데스노트.jpg" alt="데스노트" width="300">
-
-Populer Anime
-
-
-## 📫 Connect with Me
-- [Steam Profile](https://steamcommunity.com/profiles/76561198423141226)
+  <div style="background-color: #2e003e; padding: 15px; border-radius: 10px; text-align: center; width: 30%;">
+    <img src="Herta/데스노트.jpg" alt="데스노트" width="100%" style="border-radius: 10px;">
+    <h3 style="color: #C0C0C0; margin-top: 10px;">💀 Popular Anime</h3>
+    <p>**데스노트**</p>
+  </div>
 
 </div>
+
+---
+
+## 📫 **Connect with Me**
+
+<div style="text-align: center; margin-top: 20px;">
+  <a href="https://steamcommunity.com/profiles/76561198423141226" 
+     style="background-color: #6c33a3; color: #C0C0C0; padding: 15px 30px; text-decoration: none; border-radius: 10px; font-weight: bold; display: inline-block; margin-top: 10px;">
+    🎮 Visit My Steam Profile
+  </a>
+</div>
+
+</div>
+
