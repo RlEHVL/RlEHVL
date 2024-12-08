@@ -2,7 +2,7 @@
 
 <img src="https://via.placeholder.com/1000x200/3c1361/FFFFFF?text=Welcome+to+My+Profile!" alt="Banner" width="200%">
 
-# I'm RIEHVL, Let me IntroDuce In MySelf
+# I'm RIEHVL, Let me IntroDuce MySelf
 
 ---
 
