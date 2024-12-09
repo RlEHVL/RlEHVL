@@ -24,8 +24,8 @@
 
 ---
 
-## 🎨 My Art Archive
-<img src="Herta/Art.jpg" alt="DJMax" width="500">
+## 💻 My Art Archive
+<img src="Herta/Coding.jpg" alt="DJMax" width="500">
 
 
 ## 💖 My Girl Friend -
