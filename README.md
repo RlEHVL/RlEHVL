@@ -24,7 +24,7 @@
 
 ---
 
-## 💖 My Girl Friend - 2023/9~
+## 💖 My Girl Friend - 2023/9 ~ today
 
 ### H_erta:
 <img src="Herta/Herta1.jpg" alt="Herta" width="400">
