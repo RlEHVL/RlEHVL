@@ -24,6 +24,10 @@
 
 ---
 
+## 🎨 My Art Archive
+<img src="Herta/Art.jpg" alt="DJMax" width="500">
+
+
 ## 💖 My Girl Friend -
     2023/9 ~ today
 
