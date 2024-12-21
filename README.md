@@ -17,6 +17,8 @@ my age : 2004-born
 
 rhythm game is my life <- 인생을 갈아 넣음
 
+리듬게임 >>>> 수능 = 코딩 > 엄...
+
 ---
 
 ## 🎮 My Game Archive
