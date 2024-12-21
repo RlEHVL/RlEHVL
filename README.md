@@ -8,7 +8,7 @@
 
 >
 
-[Link2 나 따위는 평생 닿을 수 없는 영역..(4키)](https://youtu.be/OApSgsEzpHo?si=XO2ceeZ_7LAbI3go)
+[Link2 나 따위는 죽었다 깨어나도 평생 닿을 수 없는 영역..(4키)](https://youtu.be/OApSgsEzpHo?si=XO2ceeZ_7LAbI3go)
 
 ---
 
