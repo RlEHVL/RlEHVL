@@ -5,6 +5,7 @@
 # I'm RIEHVL, Let me IntroDuce MySelf
 
 [내 인생의 롤모델](https://youtu.be/RsO9nth3-dU?si=KQobxP5U8P6Velfl)
+[나 따위는 평생 닿을 수 없는 영역..](https://youtu.be/OApSgsEzpHo?si=XO2ceeZ_7LAbI3go)
 
 ---
 
