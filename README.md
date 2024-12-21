@@ -15,7 +15,7 @@
 - 🎮 **Hobbies**: DJMax, Watching Anime
 - 🌱 **Learning**: Python, Unity, .Net Framework, ML Development, Data Analysis, RNN
 - 📫 **Contact**: Discord: rmfchqhdms
-- 🚀 **Archive my dream**: Creating AI girlFriends! haha...!
+- 🚀 **Archive my dream**: Creating AI girlFriends!
 
 my age : 2004-born
 
