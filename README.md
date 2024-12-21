@@ -4,7 +4,7 @@
 
 # I'm RIEHVL, Let me IntroDuce MySelf
 
-[리겜 메인곡](https://youtu.be/EnLFt-nTmQo?si=qoyah-PKKDwKRGKC)
+[리겜 자주 듣는 곡](https://youtu.be/EnLFt-nTmQo?si=qoyah-PKKDwKRGKC)
 
 ---
 
