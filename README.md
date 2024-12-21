@@ -13,6 +13,7 @@
 - 📫 **Contact**: Discord: rmfchqhdms
 - 🚀 **Archive my dream**: Creating AI girlFriends! haha...!
 
+my age : 2004-born
 
 ---
 
