@@ -4,11 +4,11 @@
 
 # I'm RIEHVL, Let me IntroDuce MySelf
 
-[Link1 내 인생의 롤모델](https://youtu.be/RsO9nth3-dU?si=KQobxP5U8P6Velfl)   
+[Link1 내 인생의 롤모델 (7키)](https://youtu.be/RsO9nth3-dU?si=KQobxP5U8P6Velfl)   
 
 >
 
-[Link2 나 따위는 평생 닿을 수 없는 영역..](https://youtu.be/OApSgsEzpHo?si=XO2ceeZ_7LAbI3go)
+[Link2 나 따위는 평생 닿을 수 없는 영역..(4키)](https://youtu.be/OApSgsEzpHo?si=XO2ceeZ_7LAbI3go)
 
 ---
 
