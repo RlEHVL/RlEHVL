@@ -6,6 +6,8 @@
 
 [내 인생의 롤모델](https://youtu.be/RsO9nth3-dU?si=KQobxP5U8P6Velfl)
 
+리겜 외에는 겜 취급 안 합니다 ㅡㅡ;;
+
 ---
 
 ## 🌌 About Me
