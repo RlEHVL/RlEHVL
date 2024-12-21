@@ -4,11 +4,6 @@
 
 # I'm RIEHVL, Let me IntroDuce MySelf
 
-[Link1 내 인생의 롤모델 (7키)](https://youtu.be/fH9wgnPjoM8?si=SNkasNyxOHd5kmze)   
-
->
-
-[Link2 나 따위는 죽었다 깨어나도 평생 닿을 수 없는 영역..(4키)](https://youtu.be/OApSgsEzpHo?si=XO2ceeZ_7LAbI3go)
 
 ---
 
