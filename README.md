@@ -15,6 +15,8 @@
 
 my age : 2004-born
 
+rhythm game is my life <- 인생을 갈아 넣음
+
 ---
 
 ## 🎮 My Game Archive
