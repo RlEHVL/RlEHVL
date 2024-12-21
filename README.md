@@ -4,7 +4,7 @@
 
 # I'm RIEHVL, Let me IntroDuce MySelf
 
-[내 인생의 롤모델](https://youtu.be/r0EFM8NQ_xk?si=JBgrHbfLxVwPEgWq)
+[내 인생의 롤모델](https://youtu.be/RsO9nth3-dU?si=KQobxP5U8P6Velfl)
 
 ---
 
