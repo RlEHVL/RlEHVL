@@ -6,9 +6,6 @@
 
 [내 인생의 롤모델](https://youtu.be/RsO9nth3-dU?si=KQobxP5U8P6Velfl)
 
-> 자기주장 확고함..!   
-> 성격이 극단적..
-
 ---
 
 ## 🌌 About Me
