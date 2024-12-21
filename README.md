@@ -4,6 +4,8 @@
 
 # I'm RIEHVL, Let me IntroDuce MySelf
 
+[리겜 메인곡](https://youtu.be/EnLFt-nTmQo?si=qoyah-PKKDwKRGKC)
+
 ---
 
 ## 🌌 About Me
