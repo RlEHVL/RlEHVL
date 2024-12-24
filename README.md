@@ -3,7 +3,7 @@
 <img src="https://via.placeholder.com/1000x200/3c1361/FFFFFF?text=Welcome+to+My+Profile!" alt="Banner" width="200%">
 
 # I'm RIEHVL, Let me IntroDuce MySelf
-> 아직 코딩 적응기!
+> 아직 코딩 적응기!   
 > 리듬게임 7키 제니스 목표
 ---
 
