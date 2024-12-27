@@ -5,6 +5,10 @@
 # I'm RIEHVL, Let me IntroDuce MySelf
 > 아직 코딩 적응기!   
 > 리듬게임 7키 제니스 목표
+
+SAIT 생각보다 아무나 하는 급인듯 ㄷㄷ!
+나보다 잘하면 다 석사 이상임
+
 ---
 
 ## 🌌 About Me
