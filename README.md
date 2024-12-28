@@ -15,7 +15,7 @@ SAIT 생각보단 어렵진 않은듯..
 - 🎮 **Hobbies**: DJMax, Watching Anime
 - 🌱 **Learning**: Python, Unity, .Net Framework, ML Development, Data Analysis, RNN
 - 📫 **Contact**: Discord: rmfchqhdms
-- 🚀 **Archive my dream**: Creating AI girlFriends!
+- 🚀 **Archive my dream**: Creating AI girlFriends! <- 여친 만들고싶은게 아니라 뉴로사마 ㄹㅇ 개쩌는듯 올해는 철벽 없었지만 내년부터는 철벽칠거라 여친은 딱히...그 시간에 코딩을 해야됨
 
 my age : 2004-born
 
