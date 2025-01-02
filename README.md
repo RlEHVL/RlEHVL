@@ -4,7 +4,7 @@
 
 # I'm RIEHVL, Let me IntroDuce MySelf
 > 아직 코딩 적응기!    
-> 리듬게임 7키 제니스
+> 리듬게임 7키 제니스.  
 > 학점 은행제한테 코딩실력 개조당함!
 
 
